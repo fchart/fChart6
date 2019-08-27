@@ -1,5 +1,5 @@
 # fChart6 多國語言版 + 全新的流程圖連接線
-fChart 6.0 版可以使用[fChartSetting.exe]來設定使用的介面語言, 支援繁體中文, 簡體中文和英文.
+fChart 6.0 版可以使用[fChartSetting.exe]設定使用的介面語言, 全工具都支援繁體中文(Traditional Chinese), 簡體中文(Simple Chinese)和英文(English).
 
 fChart 6.0 版支援5種連接線:直線,先水平再垂直L型線,先垂直再水平L型線,順反時鐘的U型線, 
      雖然新版相容舊版的.fpp專案版, 請注意! 新版建立的.fpp檔, 在舊版開啟時, 
