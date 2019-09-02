@@ -8,7 +8,7 @@ fChart 6.0 版支援5種連接線:直線,先水平再垂直L型線,先垂直再�
 - fChart6.zip: fChart標準版.
 - fChartBlockly6SE.zip: fChart+Blockly特別版.
 - fChartNode6.exe: fChart Node版的自解壓縮檔, 執行.exe檔案即可解壓縮.
-- fChartPython6.exe: fChart Python版的自解壓縮檔, 因為壓縮檔超過25MB, 所以共有3個檔案fChartPython6.exe, fChartPython6.7z.001和fChartPython6.7z.002, 請一併下載後, 執行.exe檔案來解壓縮.
+- fChartPython6.exe: fChart Python版的自解壓縮檔, 執行.exe檔案來解壓縮.
 
 6.0版當2個符號的位置如果是終點位在起點的右下方, L型線預設是先水平再垂直90度,
      如果是位在右上方,左下方,左上方, 預設是先垂直再水平90度的L型線, fChart會自動依據
